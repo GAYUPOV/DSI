@@ -24,9 +24,6 @@ body {
     text-decoration: none;
     font-family: var(--primary-font);
 }
-a {
-    cursor: pointer;
-}
 .container {
     width: 100%;
     max-width: 1200px;
@@ -69,6 +66,7 @@ a {
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+    cursor: pointer;
 }
 
 .nav__burger {
